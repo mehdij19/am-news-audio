@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>AM Awareness Cycle</title>
+    <link>https://mehdij19.github.io/am-news-audio</link>
+    <description>Daily additive manufacturing market intelligence, narrated for listening.</description>
+    <language>en-us</language>
+    <itunes:author>AM News Intel</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Fri, 21 Aug 2026 17:55:06 +0000</lastBuildDate>
+    <item>
+      <title>AM Awareness Cycle - 2026-08-21</title>
+      <description>This is your additive manufacturing intelligence cycle for August twenty-first. Three days, eighty fresh rows, a short dense batch after last cycle's nine-day catch-up. Four threads, and the first one reframes the rest.</description>
+      <pubDate>Fri, 21 Aug 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-08-21.mp3" length="5154877" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_2026-08-21.mp3</guid>
+    </item>
+  </channel>
+</rss>
