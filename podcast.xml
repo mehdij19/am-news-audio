@@ -7,13 +7,20 @@
     <language>en-us</language>
     <itunes:author>AM News Intel</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 31 Aug 2026 08:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:56:48 +0000</lastBuildDate>
     <item>
       <title>AM Awareness Cycle - 2026-08-31</title>
       <description>[[CHAPTER: Orientation]]</description>
       <pubDate>Mon, 31 Aug 2026 13:00:00 +0000</pubDate>
       <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-08-31.mp3" length="4390516" type="audio/mpeg" />
       <guid isPermaLink="false">episode_2026-08-31.mp3</guid>
+    </item>
+    <item>
+      <title>AM Weekly Roundup - week ending 2026-08-31</title>
+      <description>[[CHAPTER: This Week in Thirty Seconds]]</description>
+      <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_weekly_2026-08-31.mp3" length="3469404" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_weekly_2026-08-31.mp3</guid>
     </item>
     <item>
       <title>AM Awareness Cycle - 2026-08-30</title>
@@ -84,6 +91,20 @@
       <pubDate>Fri, 21 Aug 2026 13:00:00 +0000</pubDate>
       <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-08-21.mp3" length="5326560" type="audio/mpeg" />
       <guid isPermaLink="false">episode_2026-08-21.mp3</guid>
+    </item>
+    <item>
+      <title>AM Awareness Cycle - 2026-08-18</title>
+      <description>This is your additive manufacturing intelligence cycle for August eighteenth. Nine-plus days, a hundred ninety-nine rows, a bigger catch-up batch than usual. Four threads. Capital keeps sorting itself by who has a real business. The qualification-funding cadence didn't just continue, it diversified. Two independent lenses now agree on the same China story. And Farsoon just raised the largest finan...</description>
+      <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-08-18.mp3" length="3263302" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_2026-08-18.mp3</guid>
+    </item>
+    <item>
+      <title>AM Awareness Cycle - 2026-08-10</title>
+      <description>This is your additive manufacturing intelligence cycle for August tenth. Nine days, ninety-one rows. Three threads run through it. The capital sort found its cleanest expression yet: 3D Systems is hunting for a new CEO while Xometry posts a record quarter — value is leaving the hardware platform and moving to the marketplace. The defense-qualification machine kept spinning: the Navy granted its fi...</description>
+      <pubDate>Mon, 10 Aug 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-08-10.mp3" length="2885366" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_2026-08-10.mp3</guid>
     </item>
   </channel>
 </rss>
