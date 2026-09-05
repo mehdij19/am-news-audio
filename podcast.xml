@@ -7,7 +7,21 @@
     <language>en-us</language>
     <itunes:author>AM News Intel</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Fri, 04 Sep 2026 11:29:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 08:29:34 +0000</lastBuildDate>
+    <item>
+      <title>AM Awareness Cycle - 2026-09-05</title>
+      <description>[[CHAPTER: Orientation]]</description>
+      <pubDate>Sat, 05 Sep 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-09-05.mp3" length="7231996" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_2026-09-05.mp3</guid>
+    </item>
+    <item>
+      <title>AM Experimental Episode 2026-09-05</title>
+      <description>[[CHAPTER: What This Is]]</description>
+      <pubDate>Sat, 05 Sep 2026 11:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_experimental_2026-09-05.mp3" length="11097291" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_experimental_2026-09-05.mp3</guid>
+    </item>
     <item>
       <title>AM Awareness Cycle - 2026-09-04</title>
       <description>[[CHAPTER: Signal]]</description>
