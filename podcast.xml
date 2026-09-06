@@ -7,7 +7,14 @@
     <language>en-us</language>
     <itunes:author>AM News Intel</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 05 Sep 2026 08:29:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:31:35 +0000</lastBuildDate>
+    <item>
+      <title>AM Awareness Cycle - 2026-09-06</title>
+      <description>[[CHAPTER: Orientation]]</description>
+      <pubDate>Sun, 06 Sep 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-09-06.mp3" length="9894432" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_2026-09-06.mp3</guid>
+    </item>
     <item>
       <title>AM Awareness Cycle - 2026-09-05</title>
       <description>[[CHAPTER: Orientation]]</description>
