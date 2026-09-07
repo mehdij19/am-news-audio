@@ -7,7 +7,14 @@
     <language>en-us</language>
     <itunes:author>AM News Intel</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 06 Sep 2026 13:08:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:25:03 +0000</lastBuildDate>
+    <item>
+      <title>AM Awareness Cycle - 2026-09-07</title>
+      <description>[[CHAPTER: Orientation]]</description>
+      <pubDate>Mon, 07 Sep 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-09-07.mp3" length="8391394" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_2026-09-07.mp3</guid>
+    </item>
     <item>
       <title>AM Awareness Cycle - 2026-09-06</title>
       <description>[[CHAPTER: Orientation]]</description>
@@ -16,7 +23,7 @@
       <guid isPermaLink="false">episode_2026-09-06.mp3</guid>
     </item>
     <item>
-      <title>AM Weekly Roundup - week ending 2026-09-06</title>
+      <title>AM Weekly Roundup - Aug 30 to Sep 5, 2026</title>
       <description># Weekly Narrated Digest — Week of Aug 30 – Sep 5, 2026</description>
       <pubDate>Sun, 06 Sep 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_weekly_2026-09-06.mp3" length="10552920" type="audio/mpeg" />
@@ -72,7 +79,7 @@
       <guid isPermaLink="false">episode_2026-08-31.mp3</guid>
     </item>
     <item>
-      <title>AM Weekly Roundup - week ending 2026-08-31</title>
+      <title>AM Weekly Roundup - Aug 24 to Aug 30, 2026</title>
       <description>[[CHAPTER: This Week in Thirty Seconds]]</description>
       <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
       <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_weekly_2026-08-31.mp3" length="6438324" type="audio/mpeg" />
