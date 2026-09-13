@@ -7,7 +7,21 @@
     <language>en-us</language>
     <itunes:author>AM News Intel</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 12 Sep 2026 10:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 10:24:23 +0000</lastBuildDate>
+    <item>
+      <title>AM Awareness Cycle - 2026-09-13</title>
+      <description>[[CHAPTER: Opening]]</description>
+      <pubDate>Sun, 13 Sep 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-09-13.mp3" length="10169900" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_2026-09-13.mp3</guid>
+    </item>
+    <item>
+      <title>AM Weekly Roundup - Sep 6 to Sep 12, 2026</title>
+      <description>[[CHAPTER: Opening]]</description>
+      <pubDate>Sun, 13 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_weekly_2026-09-13.mp3" length="8522974" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_weekly_2026-09-13.mp3</guid>
+    </item>
     <item>
       <title>AM Awareness Cycle - 2026-09-12</title>
       <description>[[CHAPTER: Opening]]</description>
