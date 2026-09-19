@@ -7,13 +7,20 @@
     <language>en-us</language>
     <itunes:author>AM News Intel</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 19 Sep 2026 10:19:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:58:31 +0000</lastBuildDate>
     <item>
       <title>AM Awareness Cycle - 2026-09-19</title>
       <description>[[CHAPTER: Opening]]</description>
       <pubDate>Sat, 19 Sep 2026 13:00:00 +0000</pubDate>
       <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-09-19.mp3" length="11153538" type="audio/mpeg" />
       <guid isPermaLink="false">episode_2026-09-19.mp3</guid>
+    </item>
+    <item>
+      <title>AM Weekly Roundup - Sep 13 to Sep 18, 2026</title>
+      <description>[[CHAPTER: Opening]]</description>
+      <pubDate>Sat, 19 Sep 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_weekly_2026-09-19.mp3" length="7769220" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_weekly_2026-09-19.mp3</guid>
     </item>
     <item>
       <title>AM Awareness Cycle - 2026-09-18</title>
@@ -210,13 +217,6 @@
       <pubDate>Wed, 26 Aug 2026 13:00:00 +0000</pubDate>
       <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-08-26.mp3" length="5637005" type="audio/mpeg" />
       <guid isPermaLink="false">episode_2026-08-26.mp3</guid>
-    </item>
-    <item>
-      <title>AM Awareness Cycle - 2026-08-25</title>
-      <description>[[CHAPTER: Orientation]]</description>
-      <pubDate>Tue, 25 Aug 2026 13:00:00 +0000</pubDate>
-      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-08-25.mp3" length="3532664" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_2026-08-25.mp3</guid>
     </item>
   </channel>
 </rss>
