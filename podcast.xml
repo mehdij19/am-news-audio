@@ -7,7 +7,14 @@
     <language>en-us</language>
     <itunes:author>AM News Intel</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sun, 01 Nov 2026 10:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:33:15 +0000</lastBuildDate>
+    <item>
+      <title>AM Awareness Cycle - 2026-11-02</title>
+      <description>[[CHAPTER: The intelligence angle]]</description>
+      <pubDate>Mon, 02 Nov 2026 13:00:00 +0000</pubDate>
+      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-11-02.mp3" length="11117064" type="audio/mpeg" />
+      <guid isPermaLink="false">episode_2026-11-02.mp3</guid>
+    </item>
     <item>
       <title>AM Awareness Cycle - 2026-11-01</title>
       <description>[[CHAPTER: The intelligence angle]]</description>
@@ -210,13 +217,6 @@
       <pubDate>Wed, 07 Oct 2026 13:00:00 +0000</pubDate>
       <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-10-07.mp3" length="17476295" type="audio/mpeg" />
       <guid isPermaLink="false">episode_2026-10-07.mp3</guid>
-    </item>
-    <item>
-      <title>AM Awareness Cycle - 2026-10-06</title>
-      <description>[[CHAPTER: Opening]]</description>
-      <pubDate>Tue, 06 Oct 2026 13:00:00 +0000</pubDate>
-      <enclosure url="https://mehdij19.github.io/am-news-audio/episodes/episode_2026-10-06.mp3" length="14986495" type="audio/mpeg" />
-      <guid isPermaLink="false">episode_2026-10-06.mp3</guid>
     </item>
   </channel>
 </rss>
